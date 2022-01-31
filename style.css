@@ -1,0 +1,41 @@
+body{
+background-color: #1b3e44;
+}
+.heading{
+  text-align: center;
+  margin-top:1%;
+  margin-bottom:2%;
+  color: aquamarine;
+  font-family:cursive
+}
+.heding_colour{
+
+  margin-left: 0;
+  margin-right: 0;
+}
+.part{
+  background-color:#abcd;
+  border: 3px solid #abedcc;
+}
+
+label{
+width: 100px;
+display: inline-block;
+margin-top: 50px;
+}
+.but{
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+th{
+  border: 2px solid black;
+  text-align: center;
+}
+table{
+  width: 100%;
+
+}
+td{
+  text-align: center;
+    border: 2px solid black;
+}
